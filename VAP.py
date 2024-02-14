@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import seaborn as sns
+# import seaborn as sns
 
 
 # Define the data loading function
